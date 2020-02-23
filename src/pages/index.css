@@ -1,0 +1,26 @@
+.home {
+    margin-top: 100px;
+}
+.nav {
+    line-height: 100px;
+    text-decoration: none;
+    color: black;
+    font-size: 60px;
+    display: inline-block;
+    cursor: pointer;
+}
+.bar {
+    line-height: 60px;
+}
+.soldier {
+    background-color: aqua;
+}
+.senior {
+    background-color: aquamarine;
+}
+
+.test-router
+{
+    cursor: pointer;
+    font-size: 4rem;
+}
