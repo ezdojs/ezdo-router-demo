@@ -1,6 +1,7 @@
 import ez from 'ezdo'
 import './index.css'
-import Router from 'ezdo-router'
+// import Router from 'ezdo-router'
+import Router from 'aut-router'
 
 class Page1 extends ez.Node
 {

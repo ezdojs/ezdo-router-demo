@@ -11,7 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "ezdo": "latest",
-    "ezdo-router": "latest"
+    "ezdo-router": "latest",
+    "aut-router": "latest"
   },
   "devDependencies": {
     "clean-webpack-plugin": "^3.0.0",
