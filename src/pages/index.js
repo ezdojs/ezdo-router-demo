@@ -43,7 +43,7 @@ class Home extends ez.Node {
 
         this.addClass('home')
 
-        this.text = '本人正在找工作，有需要或有帮忙内推的可联系我，微信/手机：15011021101'
+        this.text = ''
         for(var i = 0; i < 2; i++) {
             let bar = new ez.Node()
             let utype = i % 2 === 0 
